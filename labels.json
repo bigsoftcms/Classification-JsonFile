@@ -1,0 +1,242 @@
+[
+  {
+    "id": 409283388,
+    "node_id": "MDU6TGFiZWw0MDkyODMzODg=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/*caused-by-extension",
+    "name": "*caused-by-extension",
+    "color": "E2A1C2",
+    "default": false
+  },
+  {
+    "id": 766755777,
+    "node_id": "MDU6TGFiZWw3NjY3NTU3Nzc=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/*dev-question",
+    "name": "*dev-question",
+    "color": "E2A1C2",
+    "default": false
+  },
+  {
+    "id": 366106217,
+    "node_id": "MDU6TGFiZWwzNjYxMDYyMTc=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/*duplicate",
+    "name": "*duplicate",
+    "color": "E2A1C2",
+    "default": false
+  },
+  {
+    "id": 427411234,
+    "node_id": "MDU6TGFiZWw0Mjc0MTEyMzQ=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/*extension-candidate",
+    "name": "*extension-candidate",
+    "color": "d4c5f9",
+    "default": false
+  },
+  {
+    "id": 404225303,
+    "node_id": "MDU6TGFiZWw0MDQyMjUzMDM=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/*not-reproducible",
+    "name": "*not-reproducible",
+    "color": "E2A1C2",
+    "default": false
+  },
+  {
+    "id": 752866026,
+    "node_id": "MDU6TGFiZWw3NTI4NjYwMjY=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/*out-of-scope",
+    "name": "*out-of-scope",
+    "color": "E2A1C2",
+    "default": false
+  },
+  {
+    "id": 256129998,
+    "node_id": "MDU6TGFiZWwyNTYxMjk5OTg=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/*question",
+    "name": "*question",
+    "color": "dcdcdc",
+    "default": false
+  },
+  {
+    "id": 756566594,
+    "node_id": "MDU6TGFiZWw3NTY1NjY1OTQ=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/External",
+    "name": "External",
+    "color": "ededed",
+    "default": false
+  },
+  {
+    "id": 609062237,
+    "node_id": "MDU6TGFiZWw2MDkwNjIyMzc=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/L10N",
+    "name": "L10N",
+    "color": "1d76db",
+    "default": false
+  },
+  {
+    "id": 295276395,
+    "node_id": "MDU6TGFiZWwyOTUyNzYzOTU=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/VIM",
+    "name": "VIM",
+    "color": "c5def5",
+    "default": false
+  },
+  {
+    "id": 670185781,
+    "node_id": "MDU6TGFiZWw2NzAxODU3ODE=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/WSL",
+    "name": "WSL",
+    "color": "006b75",
+    "default": false
+  },
+  {
+    "id": 316813364,
+    "node_id": "MDU6TGFiZWwzMTY4MTMzNjQ=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/accessibility",
+    "name": "accessibility",
+    "color": "d93f0b",
+    "default": false
+  },
+  {
+    "id": 974790596,
+    "node_id": "MDU6TGFiZWw5NzQ3OTA1OTY=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/accessibility-jaws",
+    "name": "accessibility-jaws",
+    "color": "f9c3c0",
+    "default": false
+  },
+  {
+    "id": 290465400,
+    "node_id": "MDU6TGFiZWwyOTA0NjU0MDA=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/api",
+    "name": "api",
+    "color": "1d76db",
+    "default": false
+  },
+  {
+    "id": 974714207,
+    "node_id": "MDU6TGFiZWw5NzQ3MTQyMDc=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/api-finalization",
+    "name": "api-finalization",
+    "color": "bfd4f2",
+    "default": false
+  },
+  {
+    "id": 869332220,
+    "node_id": "MDU6TGFiZWw4NjkzMzIyMjA=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/api-proposal",
+    "name": "api-proposal",
+    "color": "83defc",
+    "default": false
+  },
+  {
+    "id": 421131022,
+    "node_id": "MDU6TGFiZWw0MjExMzEwMjI=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/as-designed",
+    "name": "as-designed",
+    "color": "E2A1C2",
+    "default": false
+  },
+  {
+    "id": 991466732,
+    "node_id": "MDU6TGFiZWw5OTE0NjY3MzI=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/breadcrumbs",
+    "name": "breadcrumbs",
+    "color": "bfd4f2",
+    "default": false
+  },
+  {
+    "id": 920404281,
+    "node_id": "MDU6TGFiZWw5MjA0MDQyODE=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/broken-build",
+    "name": "broken-build",
+    "color": "d93f0b",
+    "default": false
+  },
+  {
+    "id": 256129993,
+    "node_id": "MDU6TGFiZWwyNTYxMjk5OTM=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/bug",
+    "name": "bug",
+    "color": "8D6673",
+    "default": true
+  },
+  {
+    "id": 344002046,
+    "node_id": "MDU6TGFiZWwzNDQwMDIwNDY=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/candidate",
+    "name": "candidate",
+    "color": "fbca04",
+    "default": false
+  },
+  {
+    "id": 779863534,
+    "node_id": "MDU6TGFiZWw3Nzk4NjM1MzQ=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/cli",
+    "name": "cli",
+    "color": "1d76db",
+    "default": false
+  },
+  {
+    "id": 396375978,
+    "node_id": "MDU6TGFiZWwzOTYzNzU5Nzg=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/color-palette",
+    "name": "color-palette",
+    "color": "c5def5",
+    "default": false
+  },
+  {
+    "id": 479204519,
+    "node_id": "MDU6TGFiZWw0NzkyMDQ1MTk=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/config",
+    "name": "config",
+    "color": "c5def5",
+    "default": false
+  },
+  {
+    "id": 293381861,
+    "node_id": "MDU6TGFiZWwyOTMzODE4NjE=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/css-less-scss",
+    "name": "css-less-scss",
+    "color": "1d76db",
+    "default": false
+  },
+  {
+    "id": 296418715,
+    "node_id": "MDU6TGFiZWwyOTY0MTg3MTU=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/debt",
+    "name": "debt",
+    "color": "dcdcdc",
+    "default": false
+  },
+  {
+    "id": 291054922,
+    "node_id": "MDU6TGFiZWwyOTEwNTQ5MjI=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/debug",
+    "name": "debug",
+    "color": "1d76db",
+    "default": false
+  },
+  {
+    "id": 437434022,
+    "node_id": "MDU6TGFiZWw0Mzc0MzQwMjI=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/debug-console",
+    "name": "debug-console",
+    "color": "c5def5",
+    "default": false
+  },
+  {
+    "id": 419891520,
+    "node_id": "MDU6TGFiZWw0MTk4OTE1MjA=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/diff-editor",
+    "name": "diff-editor",
+    "color": "c5def5",
+    "default": false
+  },
+  {
+    "id": 824536038,
+    "node_id": "MDU6TGFiZWw4MjQ1MzYwMzg=",
+    "url": "https://api.github.com/repos/Microsoft/vscode/labels/dropdown",
+    "name": "dropdown",
+    "color": "c5def5",
+    "default": false
+  }
+]
